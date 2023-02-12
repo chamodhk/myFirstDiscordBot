@@ -1,0 +1,5 @@
+python
+pyjokes
+requests
+beautifulsoup4
+nest_asyncio
