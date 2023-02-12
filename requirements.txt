@@ -1,4 +1,4 @@
-discord.py 2.1.1
+discord.py
 pyjokes
 requests
 beautifulsoup4
